@@ -25,6 +25,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000?style=for-the-badge)  
+![NG-ZORRO](https://img.shields.io/badge/NG--ZORRO-409EFF?style=for-the-badge&logo=ant-design&logoColor=white)
 
 **Backend:**  
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
