@@ -31,8 +31,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Next Auth](https://img.shields.io/badge/Next_Auth-000?style=for-the-badge)  
-![OAuth](https://img.shields.io/badge/OAuth-3C873A?style=for-the-badge&logo=oauth&logoColor=white)  
-![Middlewares](https://img.shields.io/badge/Middlewares-000?style=for-the-badge)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Infra & DevOps:**  
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
